@@ -250,8 +250,9 @@ switch ($programStudi) {
 
 					<textarea
 						class="input-form"
-						id="pesan"
-						name="pesan"
+						id="buku
+						"
+						name="buku"
 						maxlength="300"
 						placeholder="Tulis pesan Anda"
 						required></textarea>
